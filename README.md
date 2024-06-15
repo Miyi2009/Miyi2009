@@ -2,7 +2,7 @@
 - 👀 I’m Cybersecurity student
 - 🌱 I’m currently learning CC
 - 💞️ I’m looking to collaborate on this platform
-- 📫 To reach to me just leave me a message and i will reply to you ASAP. Thanks
+- 📫 To reach out to me just leave me a message and i will reply to you ASAP. Thanks
 
 <!---
 Miyi2009/Miyi2009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
