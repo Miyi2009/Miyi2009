@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Miyi2009
-- 👀 I’m interested in softwere engineering
-- 🌱 I’m currently learning softwere engineering
+- 👀 I’m Cybersecurity student
+- 🌱 I’m currently learning CC
 - 💞️ I’m looking to collaborate on this platform
-- 📫 How to reach me say hi to me and i will reply you as soon as i get time for you. thanks
+- 📫 To reach to me just leave me a message and i will reply to you ASAP. Thanks
 
 <!---
 Miyi2009/Miyi2009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
